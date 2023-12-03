@@ -1,0 +1,8 @@
+[
+  {
+    "username": "Fabe",
+    "passwordHash" : "Test",
+    "salt": "zout",
+    "encryptedEncryptionKey": "YOOO!"
+  }
+]
